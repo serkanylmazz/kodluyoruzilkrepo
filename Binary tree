@@ -1,0 +1,11 @@
+Binary Search Tree Exercise
+[8, 6, 2, 9, 4, 7, 1, 10, 5, 3]
+
+root: 7
+
+                       
+                       8
+            7                      9
+        2       6                        10
+    1       4
+        3       5
